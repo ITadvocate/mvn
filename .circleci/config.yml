@@ -13,7 +13,7 @@ jobs:
       - image: cimg/openjdk:8.0
     steps:
       # Checkout the code as the first step.
-      - checkout
+      - checkout master
       # Use mvn clean and package as the standard maven build phase
       - run:
           name: Build
