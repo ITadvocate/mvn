@@ -13,3 +13,5 @@
 # mess
 
 # [![Java CI with Maven](https://github.com/ITadvocate/mvn/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/ITadvocate/mvn/actions/workflows/maven.yml)
+
+[Build Status](http://localhost:8080/buildStatus/icon?job=Maven "http://localhost:8080/job/Maven/")
